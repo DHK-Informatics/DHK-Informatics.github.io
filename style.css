@@ -1,0 +1,74 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+
+@import url('https://fonts.maateen.me/bangla/font.css');
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bangla', sans-serif;
+    background-color: rgb(221, 221, 221);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    margin-top: 90px;
+    width: 480px;
+}
+
+.tes {
+    color: rgb(47, 47, 47);
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.number {
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.love {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* 
+nav {
+    position: relative;
+    padding-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-flex;
+}
+
+nav ul li a {
+    display: inline-flex;
+    color: red;
+    text-decoration: none;
+    padding: 20px 0;
+    width: 100px;
+    text-align: center;
+    font-size: 20px;
+}
+
+nav ul li a:hover {
+    color: blue;
+}
+*/
